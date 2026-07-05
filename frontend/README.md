@@ -7,13 +7,13 @@ An AI-powered decision support system that analyzes user dilemmas, generates str
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](Screenshots/home.png)
+![home Page](Screenshots/home.png)
 
 ### 🤔 Ask Page
-![Ask Page](Screenshots/ask.png)
+![ask Page](Screenshots/ask.png)
 
 ### 📜 History Page
-![History Page](Screenshots/history.png)
+![history Page](Screenshots/history.png)
 
 ---
 
